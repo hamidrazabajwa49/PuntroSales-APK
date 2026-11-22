@@ -1,4 +1,4 @@
-# Puntro Sales
+# Puntro Sales App
 
 An Android point-of-sale app for managing products, inventory, sales, customers, and purchasing needs. Core sales and inventory workflows use local storage; publishing a web catalog requires an internet connection and authentication.
 
